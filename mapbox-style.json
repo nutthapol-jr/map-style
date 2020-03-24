@@ -122,14 +122,6 @@
     },
     "sprite": "https://openmaptiles.github.io/positron-gl-style/sprite",
     "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=QDNkaEwgSTLIqm4wRvfL",
-    "layers": [
-        {
-            "id": "background",
-            "type": "background",
-            "paint": {
-                "background-color": "rgb(242,243,240)"
-            }
-        },
-    ],
+    "layers": [],
     "id": "positron"
 }
