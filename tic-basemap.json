@@ -1,0 +1,5 @@
+{
+  "tilejson": "2.2.0",
+  "name": "ticmaptiles",
+  "tiles": ["http://ticapi.mots.go.th/osm/data/v3/{z}/{x}/{y}.pbf"]
+}
