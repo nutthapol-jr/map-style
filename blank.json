@@ -1,0 +1,17 @@
+{
+    "version": 8,
+    "name": "Blank",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:type": "template",
+        "mapbox:sdk-support": {
+            "js": "1.9.0",
+            "android": "8.6.0",
+            "ios": "5.6.0"
+        }
+    },
+    "sprite": "https://tile.i-bitz.co.th/styles/vallaris/sprite",
+    "glyphs": "https://tile.i-bitz.co.th/fonts/{fontstack}/{range}.pbf",
+    "sources": {},
+    "layers": []
+}
